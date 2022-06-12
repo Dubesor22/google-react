@@ -10,7 +10,7 @@ const Footer = () => {
       </div>
       <div class="footer-container down">
         <img src={hoja} alt="hoja" />
-        <span> Emision Neutra de carbono desde 2017</span>
+        <span>&nbsp;Emision Neutra de carbono desde 2017</span>
       </div>
     </div>
   );
